@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/johnngone/micro-editor-unraid/main/plugin/micro-editor.plg</PluginURL>
+<PluginAuthor>Forder</PluginAuthor>
+<Beta>False</Beta>
+<Category>Other: Productivity: Tools:</Category>
+<Name>Micro Editor</Name>
+<Project>https://micro-editor.github.io/</Project>
+<Description>Micro is a modern and intuitive terminal-based text editor</Description>
+<Support>https://forums.unraid.net/topic/200552-plugin-micro-editor-a-terminal-text-editor/</Support>
+<Icon>https://raw.githubusercontent.com/johnngone/micro-editor-unraid/main/plugin/micro-editor.png</Icon>
+<Screenshot>https://micro-editor.github.io/screenshots/micro-monokai.png</Screenshot>
+</Containers>
