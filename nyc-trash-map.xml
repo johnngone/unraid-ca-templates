@@ -19,7 +19,7 @@
   <Category>Other:</Category>
   <WebUI>http://[IP]:[PORT:54711]/</WebUI>
 
-  <TemplateURL>https://raw.githubusercontent.com/johnngone/nyc-trash-map/refs/heads/main/templates/nyc-trash-map.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/johnngone/unraid-ca-templates/refs/heads/main/nyc-trash-map.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/johnngone/nyc-trash-map/refs/heads/main/frontend/public/logo.png</Icon>
 
   <ExtraParams/>
